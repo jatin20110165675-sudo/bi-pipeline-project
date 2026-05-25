@@ -20,10 +20,10 @@ Power BI — Live 3-page executive dashboard
 ![Page 1](page1_overview.png)
 
 ### Page 2 — Drill-Down
-![Page 2](page2_drilldown.png)
+![Page 2](page2_drill-down.png)
 
 ### Page 3 — Insights
-![Page 3](page3_insights.png)
+![Page 3](page1_insights.png)
 
 ## Tools Used
 - **Python (pandas)** — ETL pipeline, data cleaning and merging
